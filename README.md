@@ -1,4 +1,5 @@
 ### Thanks for stopping by! 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=P-ict0&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=P-ict0&langs_count=3&theme=tokyonight)]()
+![P-ict0's Stats](https://github-readme-stats.vercel.app/api?username=P-ict0&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
+![P-ict0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-ict0&theme=merko&show_icons=true&hide_border=false&layout=compact)
